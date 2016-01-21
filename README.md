@@ -1,5 +1,5 @@
 # pybible
-includes python Bible. Functions to use with the Django-Bible app
+includes python Bible. Functions to use with the django-pybible app
 
 # download
 download with:
